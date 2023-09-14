@@ -29,4 +29,4 @@ Graph Convolutional Networks (GCNs) are a class of neural networks designed to o
 ## Getting Started
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Graph-Convolutional-Networks.git
+   git clone https://github.com/novoblake/Graph-Convolutional-Networks.git
